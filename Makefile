@@ -1,4 +1,4 @@
-OJECT_DIR := $(dir $(abspath $(lastword $(MAKEFILE_LIST))))
+PROJECT_DIR := $(dir $(abspath $(lastword $(MAKEFILE_LIST))))
 TARGET_DIR=$(PROJECT_DIR)target
 
 CI_BUILD_NUMBER ?= $(USER)-SNAPSHOT
