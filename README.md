@@ -1,4 +1,4 @@
-# oss-best-sbt-jar
+# oss-best-sbt-jar [![Coverage Status](https://coveralls.io/repos/github/meetup/oss-best-sbt-jar/badge.svg?branch=master)](https://coveralls.io/github/meetup/oss-best-sbt-jar?branch=master)
 
 Best practices project for an open sourced SBT project publishing a jar. 
 
