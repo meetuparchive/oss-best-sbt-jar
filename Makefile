@@ -1,6 +1,3 @@
-OJECT_DIR := $(dir $(abspath $(lastword $(MAKEFILE_LIST))))
-TARGET_DIR=$(PROJECT_DIR)target
-
 CI_BUILD_NUMBER ?= $(USER)-SNAPSHOT
 CI_IVY_CACHE ?= $(HOME)/.ivy2
 CI_SBT_CACHE ?= $(HOME)/.sbt
