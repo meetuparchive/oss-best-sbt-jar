@@ -28,5 +28,3 @@ Features this project has that yours should too:
 
 * `BINTRAY_API_KEY`
 * `BINTRAY_USER`
-* `GITHUB_TOKEN`
-* `GITHUB_USER`
